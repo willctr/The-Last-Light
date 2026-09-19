@@ -1,0 +1,557 @@
+{
+ "frame": "ecliptic J2000 unit vectors (x toward equinox, z ecliptic north)",
+ "sources": [
+  "Hipparcos/Gaia (positions, distances)",
+  "RECONS nearest stars",
+  "SIMBAD spectral types"
+ ],
+ "count": 42,
+ "stars": [
+  {
+   "name": "Sirius",
+   "raDeg": 101.28708,
+   "decDeg": -16.71611,
+   "dir": [
+    -0.187454,
+    0.747303,
+    -0.637495
+   ],
+   "distanceLy": 8.6,
+   "spectral": "A1V",
+   "mag": -1.46
+  },
+  {
+   "name": "Canopus",
+   "raDeg": 95.98792,
+   "decDeg": -52.69556,
+   "dir": [
+    -0.063222,
+    0.236604,
+    -0.969547
+   ],
+   "distanceLy": 310.0,
+   "spectral": "A9II",
+   "mag": -0.74
+  },
+  {
+   "name": "Alpha Centauri",
+   "raDeg": 219.90208,
+   "decDeg": -60.83389,
+   "dir": [
+    -0.373861,
+    -0.634166,
+    -0.676802
+   ],
+   "distanceLy": 4.37,
+   "spectral": "G2V",
+   "mag": -0.27
+  },
+  {
+   "name": "Arcturus",
+   "raDeg": 213.91542,
+   "decDeg": 19.1825,
+   "dir": [
+    -0.783786,
+    -0.352801,
+    0.511088
+   ],
+   "distanceLy": 36.7,
+   "spectral": "K1.5III",
+   "mag": -0.05
+  },
+  {
+   "name": "Vega",
+   "raDeg": 279.23458,
+   "decDeg": 38.78361,
+   "dir": [
+    0.125095,
+    -0.456764,
+    0.880749
+   ],
+   "distanceLy": 25.0,
+   "spectral": "A0V",
+   "mag": 0.03
+  },
+  {
+   "name": "Capella",
+   "raDeg": 79.1725,
+   "decDeg": 45.99806,
+   "dir": [
+    0.130498,
+    0.91214,
+    0.38855
+   ],
+   "distanceLy": 42.9,
+   "spectral": "G5III",
+   "mag": 0.08
+  },
+  {
+   "name": "Rigel",
+   "raDeg": 78.63458,
+   "decDeg": -8.20167,
+   "dir": [
+    0.19505,
+    0.833545,
+    -0.516874
+   ],
+   "distanceLy": 860.0,
+   "spectral": "B8Ia",
+   "mag": 0.13
+  },
+  {
+   "name": "Procyon",
+   "raDeg": 114.82542,
+   "decDeg": 5.225,
+   "dir": [
+    -0.41811,
+    0.865463,
+    -0.275967
+   ],
+   "distanceLy": 11.46,
+   "spectral": "F5IV",
+   "mag": 0.34
+  },
+  {
+   "name": "Achernar",
+   "raDeg": 24.42833,
+   "decDeg": -57.23667,
+   "dir": [
+    0.492724,
+    -0.12916,
+    -0.860547
+   ],
+   "distanceLy": 139.0,
+   "spectral": "B6Vep",
+   "mag": 0.46
+  },
+  {
+   "name": "Betelgeuse",
+   "raDeg": 88.79292,
+   "decDeg": 7.40694,
+   "dir": [
+    0.02089,
+    0.960904,
+    -0.276092
+   ],
+   "distanceLy": 548.0,
+   "spectral": "M1Ia",
+   "mag": 0.5
+  },
+  {
+   "name": "Hadar",
+   "raDeg": 210.95583,
+   "decDeg": -60.37306,
+   "dir": [
+    -0.423937,
+    -0.579073,
+    -0.696385
+   ],
+   "distanceLy": 390.0,
+   "spectral": "B1III",
+   "mag": 0.61
+  },
+  {
+   "name": "Altair",
+   "raDeg": 297.69583,
+   "decDeg": 8.86833,
+   "dir": [
+    0.459221,
+    -0.741329,
+    0.489435
+   ],
+   "distanceLy": 16.7,
+   "spectral": "A7V",
+   "mag": 0.76
+  },
+  {
+   "name": "Acrux",
+   "raDeg": 186.64958,
+   "decDeg": -63.09917,
+   "dir": [
+    -0.449404,
+    -0.402803,
+    -0.797362
+   ],
+   "distanceLy": 320.0,
+   "spectral": "B0.5IV",
+   "mag": 0.76
+  },
+  {
+   "name": "Aldebaran",
+   "raDeg": 68.98,
+   "decDeg": 16.50917,
+   "dir": [
+    0.343906,
+    0.934157,
+    -0.09528
+   ],
+   "distanceLy": 65.3,
+   "spectral": "K5III",
+   "mag": 0.86
+  },
+  {
+   "name": "Antares",
+   "raDeg": 247.35208,
+   "decDeg": -26.43194,
+   "dir": [
+    -0.344814,
+    -0.935284,
+    -0.079675
+   ],
+   "distanceLy": 550.0,
+   "spectral": "M1.5Iab",
+   "mag": 0.96
+  },
+  {
+   "name": "Spica",
+   "raDeg": 201.29833,
+   "decDeg": -11.16139,
+   "dir": [
+    -0.914079,
+    -0.403947,
+    -0.03585
+   ],
+   "distanceLy": 250.0,
+   "spectral": "B1III",
+   "mag": 0.97
+  },
+  {
+   "name": "Pollux",
+   "raDeg": 116.32875,
+   "decDeg": 28.02611,
+   "dir": [
+    -0.391511,
+    0.912782,
+    0.116395
+   ],
+   "distanceLy": 33.8,
+   "spectral": "K0III",
+   "mag": 1.14
+  },
+  {
+   "name": "Fomalhaut",
+   "raDeg": 344.4125,
+   "decDeg": -29.62222,
+   "dir": [
+    0.837331,
+    -0.410928,
+    -0.360575
+   ],
+   "distanceLy": 25.1,
+   "spectral": "A3V",
+   "mag": 1.16
+  },
+  {
+   "name": "Deneb",
+   "raDeg": 310.35792,
+   "decDeg": 45.28028,
+   "dir": [
+    0.455649,
+    -0.209295,
+    0.865205
+   ],
+   "distanceLy": 2600.0,
+   "spectral": "A2Ia",
+   "mag": 1.25
+  },
+  {
+   "name": "Mimosa",
+   "raDeg": 191.93042,
+   "decDeg": -59.68889,
+   "dir": [
+    -0.493793,
+    -0.439123,
+    -0.750559
+   ],
+   "distanceLy": 280.0,
+   "spectral": "B0.5III",
+   "mag": 1.25
+  },
+  {
+   "name": "Alpha Centauri B",
+   "raDeg": 219.89625,
+   "decDeg": -60.83722,
+   "dir": [
+    -0.373854,
+    -0.634113,
+    -0.676856
+   ],
+   "distanceLy": 4.37,
+   "spectral": "K1V",
+   "mag": 1.33
+  },
+  {
+   "name": "Regulus",
+   "raDeg": 152.09292,
+   "decDeg": 11.96722,
+   "dir": [
+    -0.864502,
+    0.502565,
+    0.008113
+   ],
+   "distanceLy": 79.3,
+   "spectral": "B8IV",
+   "mag": 1.4
+  },
+  {
+   "name": "Adhara",
+   "raDeg": 104.65625,
+   "decDeg": -28.97194,
+   "dir": [
+    -0.221356,
+    0.583872,
+    -0.781086
+   ],
+   "distanceLy": 430.0,
+   "spectral": "B2II",
+   "mag": 1.5
+  },
+  {
+   "name": "Castor",
+   "raDeg": 113.65,
+   "decDeg": 31.88833,
+   "dir": [
+    -0.340607,
+    0.92372,
+    0.175296
+   ],
+   "distanceLy": 51.0,
+   "spectral": "A1V",
+   "mag": 1.58
+  },
+  {
+   "name": "Bellatrix",
+   "raDeg": 81.28292,
+   "decDeg": 6.34972,
+   "dir": [
+    0.150626,
+    0.945313,
+    -0.2893
+   ],
+   "distanceLy": 250.0,
+   "spectral": "B2III",
+   "mag": 1.64
+  },
+  {
+   "name": "Alnilam",
+   "raDeg": 84.05333,
+   "decDeg": -1.20194,
+   "dir": [
+    0.10358,
+    0.904,
+    -0.414795
+   ],
+   "distanceLy": 2000.0,
+   "spectral": "B0Ia",
+   "mag": 1.69
+  },
+  {
+   "name": "Alnitak",
+   "raDeg": 85.18958,
+   "decDeg": -1.94278,
+   "dir": [
+    0.083811,
+    0.90024,
+    -0.427252
+   ],
+   "distanceLy": 1260.0,
+   "spectral": "O9.5Iab",
+   "mag": 1.77
+  },
+  {
+   "name": "Polaris",
+   "raDeg": 37.95458,
+   "decDeg": 89.26417,
+   "dir": [
+    0.010126,
+    0.404991,
+    0.914265
+   ],
+   "distanceLy": 433.0,
+   "spectral": "F7Ib",
+   "mag": 1.98
+  },
+  {
+   "name": "Mintaka",
+   "raDeg": 83.00167,
+   "decDeg": 0.29917,
+   "dir": [
+    0.121839,
+    0.912711,
+    -0.390018
+   ],
+   "distanceLy": 1200.0,
+   "spectral": "O9.5II",
+   "mag": 2.23
+  },
+  {
+   "name": "Tau Ceti",
+   "raDeg": 26.01708,
+   "decDeg": -15.9375,
+   "dir": [
+    0.86412,
+    0.277749,
+    -0.419704
+   ],
+   "distanceLy": 11.9,
+   "spectral": "G8V",
+   "mag": 3.5
+  },
+  {
+   "name": "Epsilon Eridani",
+   "raDeg": 53.2325,
+   "decDeg": -9.45833,
+   "dir": [
+    0.590432,
+    0.65961,
+    -0.465086
+   ],
+   "distanceLy": 10.5,
+   "spectral": "K2V",
+   "mag": 3.73
+  },
+  {
+   "name": "Epsilon Indi",
+   "raDeg": 330.84042,
+   "decDeg": -56.78611,
+   "dir": [
+    0.478345,
+    -0.577665,
+    -0.661429
+   ],
+   "distanceLy": 11.9,
+   "spectral": "K5V",
+   "mag": 4.69
+  },
+  {
+   "name": "61 Cygni",
+   "raDeg": 316.72458,
+   "decDeg": 38.74944,
+   "dir": [
+    0.567813,
+    -0.241529,
+    0.786926
+   ],
+   "distanceLy": 11.4,
+   "spectral": "K5V",
+   "mag": 5.21
+  },
+  {
+   "name": "Lalande 21185",
+   "raDeg": 165.83417,
+   "decDeg": 35.97,
+   "dir": [
+    -0.784714,
+    0.41536,
+    0.460108
+   ],
+   "distanceLy": 8.31,
+   "spectral": "M2V",
+   "mag": 7.52
+  },
+  {
+   "name": "Barnard's Star",
+   "raDeg": 269.45208,
+   "decDeg": 4.69333,
+   "dir": [
+    -0.009531,
+    -0.881817,
+    0.471496
+   ],
+   "distanceLy": 5.96,
+   "spectral": "M4V",
+   "mag": 9.51
+  },
+  {
+   "name": "Ross 154",
+   "raDeg": 282.45583,
+   "decDeg": -23.83611,
+   "dir": [
+    0.19729,
+    -0.980223,
+    -0.01549
+   ],
+   "distanceLy": 9.7,
+   "spectral": "M3.5V",
+   "mag": 10.4
+  },
+  {
+   "name": "Gliese 581",
+   "raDeg": 229.86167,
+   "decDeg": -7.72222,
+   "dir": [
+    -0.638789,
+    -0.748495,
+    0.178056
+   ],
+   "distanceLy": 20.5,
+   "spectral": "M3V",
+   "mag": 10.56
+  },
+  {
+   "name": "Proxima Centauri",
+   "raDeg": 217.42875,
+   "decDeg": -62.67944,
+   "dir": [
+    -0.364471,
+    -0.609337,
+    -0.70418
+   ],
+   "distanceLy": 4.2465,
+   "spectral": "M5.5Ve",
+   "mag": 11.13
+  },
+  {
+   "name": "Luyten 726-8",
+   "raDeg": 24.75542,
+   "decDeg": -17.95028,
+   "dir": [
+    0.863901,
+    0.242899,
+    -0.44122
+   ],
+   "distanceLy": 8.73,
+   "spectral": "M5.5V",
+   "mag": 12.5
+  },
+  {
+   "name": "Wolf 359",
+   "raDeg": 164.12167,
+   "decDeg": 7.01472,
+   "dir": [
+    -0.954645,
+    0.297718,
+    0.004031
+   ],
+   "distanceLy": 7.86,
+   "spectral": "M6V",
+   "mag": 13.5
+  },
+  {
+   "name": "Kepler-186",
+   "raDeg": 298.65292,
+   "decDeg": 43.955,
+   "dir": [
+    0.345187,
+    -0.303505,
+    0.888105
+   ],
+   "distanceLy": 580.0,
+   "spectral": "M1V",
+   "mag": 14.6
+  },
+  {
+   "name": "TRAPPIST-1",
+   "raDeg": 346.6225,
+   "decDeg": -5.04139,
+   "dir": [
+    0.969103,
+    -0.246408,
+    0.011052
+   ],
+   "distanceLy": 40.66,
+   "spectral": "M8V",
+   "mag": 18.8
+  }
+ ]
+}

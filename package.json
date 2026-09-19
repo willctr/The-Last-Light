@@ -1,0 +1,35 @@
+{
+  "name": "the-last-light",
+  "private": true,
+  "version": "0.1.0",
+  "description": "THE LAST LIGHT \u2014 a tiny ship, an absurdly large universe. An interactive scientific visualization of the cosmos.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "data:stars": "python3 scripts/data/build_star_catalog.py",
+    "data:fixtures": "python3 scripts/astronomy/kepler.py --write-fixtures",
+    "science:travel": "python3 scripts/astronomy/travel_time.py",
+    "test:e2e": "node scripts/e2e/smoke-course.mjs --url http://localhost:4173 --target mars"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "three": "^0.180.0",
+    "zustand": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.3",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@types/three": "^0.180.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "^5.6.0",
+    "vite": "^7.0.0",
+    "vitest": "^3.0.0"
+  }
+}
